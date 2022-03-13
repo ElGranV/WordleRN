@@ -10,6 +10,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "userInterfaceStyle": "automatic",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -17,13 +18,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "userInterfaceStyle": "automatic"
     },
     "android": {
+      "userInterfaceStyle": "automatic",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.elgranv.WordleRN"
     },
     "web": {
       "favicon": "./assets/favicon.png"
