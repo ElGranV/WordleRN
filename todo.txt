@@ -1,0 +1,8 @@
+WORDLE
+- Rechercher la signification des mots automatiquement
+- Ajouter un historique des parties et des stats
+
+SUDOKU
+- Statistiques
+
+MORPION
