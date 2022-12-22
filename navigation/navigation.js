@@ -44,7 +44,7 @@ export default class Navigation extends React.Component
                             { backgroundColor: white }, headerTitleStyle: { color: black }, headerTintColor: black
                     }} />
                     <Drawer.Screen component={MorpionStack} name="MorpionStack" options={{
-                        title: "Ti Point Ti Croix", headerStyle:
+                        title: "Ti Pwen Ti Kwa", headerStyle:
                             { backgroundColor: white }, headerTitleStyle: { color: black }, headerTintColor: black
                     }} />
                 </Drawer.Navigator>

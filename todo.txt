@@ -6,3 +6,4 @@ SUDOKU
 - Statistiques
 
 MORPION
+- Régler le problème de la grille de jeu très lente
